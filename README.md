@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/86930309/227742995-b734507f-9839-4f6b-9bdf-7d11b9595e3c.png)
 
 - ## Data Wrangling
--Checking out the shape of our dataset
+- Checking out the shape of our dataset
 - ## Gradient Boosting Modeling
 
 - The best learning rate for the GB model was 1:
