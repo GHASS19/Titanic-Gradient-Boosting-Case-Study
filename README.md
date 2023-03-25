@@ -6,8 +6,8 @@
 
 - ## Data Wrangling
 - Checking out the shape of our dataset
+- 
 - ## Gradient Boosting Modeling
-- Precision   Recall
 - The best learning rate for the GB model was 1:
 - Accuracy score (training): 0.854
 - Accuracy score (validation): 0.783
