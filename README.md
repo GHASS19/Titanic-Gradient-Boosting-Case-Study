@@ -4,11 +4,11 @@
 
 ![image](https://user-images.githubusercontent.com/86930309/227742995-b734507f-9839-4f6b-9bdf-7d11b9595e3c.png)
 
-- Data Wrangling
+- ## Data Wrangling
 
-- EDA
+- ## EDA
 
-- Gradient Boosting Modeling
+- ## Gradient Boosting Modeling
 
 - The best learning rate for the GB model was 1:
 - Learning rate:  1
@@ -19,6 +19,6 @@
 
 ![image](https://user-images.githubusercontent.com/86930309/227744250-0a021133-9ca2-41c5-97ba-041425d6e802.png)
 
-- Conclusion
+- ## Conclusion
 
 Our model is considered excellent at predicting if a passenger of the Titanic has survied or not. An 87% prediction rate from the AUC ROC curve is a good model to work with.  
