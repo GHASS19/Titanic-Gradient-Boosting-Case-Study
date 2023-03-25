@@ -12,10 +12,10 @@
 - Learning rate:  1
 - Accuracy score (training): 0.854
 - Accuracy score (validation): 0.783
--         precision    recall  f1-score   support
+- precision    recall  f1-score   support
 
--   0       0.83      0.75      0.79        60
--   1       0.88      0.93      0.90       123
+- 0       0.83      0.75      0.79        60
+- 1       0.88      0.93      0.90       123
 
 -    accuracy                           0.87       183
  -  macro avg       0.86      0.84      0.85       183
