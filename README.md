@@ -12,14 +12,6 @@
 - Learning rate:  1
 - Accuracy score (training): 0.854
 - Accuracy score (validation): 0.783
-  -  precision    recall  f1-score   support
-
- -          0       0.83      0.75      0.79        60
-  -         1       0.88      0.93      0.90       123
-
-    accuracy                           0.87       183
-   macro avg       0.86      0.84      0.85       183
-weighted avg       0.87      0.87      0.87       183
 - When we use the learning rate of 1 our model predicts if a passenger survved or not 87% of the time with teh AUC ROC curve.
 
 ![image](https://user-images.githubusercontent.com/86930309/227744250-0a021133-9ca2-41c5-97ba-041425d6e802.png)
