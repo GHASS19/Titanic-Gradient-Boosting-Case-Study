@@ -7,9 +7,8 @@
 - ## Data Wrangling
 - Checking out the shape of our dataset
 - ## Gradient Boosting Modeling
-
+- Precision   Recall
 - The best learning rate for the GB model was 1:
-- Learning rate:  1
 - Accuracy score (training): 0.854
 - Accuracy score (validation): 0.783
 - When we use the learning rate of 1 our model predicts if a passenger survved or not 87% of the time with teh AUC ROC curve.
