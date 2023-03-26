@@ -6,7 +6,7 @@
 
 - ## Data Wrangling
 - Checking out the shape of our dataset
-- 
+
 - ## Gradient Boosting Modeling
 - The best learning rate for the GB model was 1:
 - Accuracy score (training): 0.854
@@ -18,3 +18,12 @@
 - ## Conclusion
 
 Our model is considered excellent at predicting if a passenger of the Titanic has survied or not. An 87% prediction rate from the AUC ROC curve is a good model to work with.  
+
+ precision    recall  f1-score   support
+
+           0       0.83      0.75      0.79        60
+           1       0.88      0.93      0.90       123
+
+    accuracy                           0.87       183
+   macro avg       0.86      0.84      0.85       183
+weighted avg       0.87      0.87      0.87 
