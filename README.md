@@ -21,29 +21,32 @@ Our model is considered excellent at predicting if a passenger of the Titanic ha
 
 Here is our stats from our Gradient Boosting Model:
 
-## A. Precision 
+### A. Precision: 
 
 Did not survive 0 = 83%
 
 Survived 1 = 88%
 
-## B. Recall
+Precision is true positives by anything that was predicted as a positive by our model.
+
+### B. Recall:
 
 Did not survive 0 = 75%
+
 Survived 1 = 93%
 
-## C. F1-Score
+Recall is the true positives divided by anything that should have been predicted as positive.
+
+### C. F1-Score:
 
 Did not survive 0 = 79%
+
 Survived 1 = 90%
 
+F1 Score combines both Recall and Precision.
+
+### D. Accuracy:
+
+ 87%
 
 
- precision    recall  f1-score   support
-
-           0       0.83      0.75      0.79        60
-           1       0.88      0.93      0.90       123
-
-    accuracy                           0.87       183
-   macro avg       0.86      0.84      0.85       183
-weighted avg       0.87      0.87      0.87 
