@@ -22,15 +22,21 @@ Our model is considered excellent at predicting if a passenger of the Titanic ha
 Here is our stats from our Gradient Boosting Model:
 
 a. Precision 
+
 Did not survive 0 = 83%
+
 Survived 1 = 88%
 
 b. Recall
+
 Did not survive 0 = 75%
+
 Survived 1 = 93%
 
 c. F1-Score
+
 Did not survive 0 = 79%
+
 Survived 1 = 90%
 
 
