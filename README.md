@@ -11,7 +11,7 @@
 - The best learning rate for the GB model was 1:
 - Accuracy score (training): 0.854
 - Accuracy score (validation): 0.783
-- When we use the learning rate of 1 our model predicts if a passenger survved or not 87% of the time with teh AUC ROC curve.
+- When we use the learning rate of 1 our model predicts if a passenger survved or not 87% of the time with the AUC ROC curve.
 
 ![image](https://user-images.githubusercontent.com/86930309/227744250-0a021133-9ca2-41c5-97ba-041425d6e802.png)
 
